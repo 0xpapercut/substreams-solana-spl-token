@@ -1,5 +1,5 @@
 [package]
-name = "substreams_solana_spl_token"
+name = "substreams-solana-spl-token"
 version = "0.1.0"
 edition = "2021"
 

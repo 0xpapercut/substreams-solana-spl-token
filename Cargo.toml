@@ -1,0 +1,10 @@
+[package]
+name = "substreams_solana_spl_token"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "substreams_solana_spl_token"
+
+[dependencies]
+substreams-solana-program-instructions = "0.1.1"
